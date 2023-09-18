@@ -4,7 +4,7 @@ Hello!! My name is Gustavo and I am a FullStack web developer from Brazil!
 
 Currently I am working at Dell Technologies as a FullStack Software Engineer II.
 
-My main technologies are JavaScript, React, Java and C#.
+My main technologies are JavaScript, React, Java, C#, .NET, and also I play a lot with Python :)
 
 ##### Let's connect!
 
