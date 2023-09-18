@@ -1,10 +1,10 @@
 ### Gustavo Schulmann
 
-Hello!! My name is Gustavo and I am a fullstack web developer from Brazil!
+Hello!! My name is Gustavo and I am a FullStack web developer from Brazil!
 
-##### About my career
+Currently I am working at Dell Technologies as a FullStack Software Engineer II.
 
--   Currently I am working at Dell Technologies as a FullStack Software Engineer II.
+My main technologies are JavaScript, React, Java and C#.
 
 ##### Let's connect!
 
